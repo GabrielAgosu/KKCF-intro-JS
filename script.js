@@ -50,15 +50,20 @@ let isHungry
 // console.log(2 + "10")
 
 let quantity = "12"; // 12 is a string bc its in quotes
-console.log(typeof quantity);
+// console.log(typeof quantity);
 
 quantity = Number(quantity) //converting quantity to a number data type
-console.log(typeof quantity);
+// console.log(typeof quantity);
 
 //making a change
 
 //string methods
 
 //link up html file and create prompt and save value
+
+// alert("hi!")
+let userName = prompt("enter your name") //save result of the user entering their name into the prompt window
+console.log('Hello, ' + userName)
+
 
 //access the DOM
