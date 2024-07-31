@@ -55,6 +55,7 @@ console.log(typeof quantity);
 quantity = Number(quantity) //converting quantity to a number data type
 console.log(typeof quantity);
 
+//making a change
 
 //string methods
 
